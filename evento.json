@@ -1,139 +1,191 @@
 {
-"title" : "I Torneo de Vibe Coding",
-"date" : "27 de Junio",
-"place" : "Pabellon V",
-"hour" : "9 am",
-"registrationEndDate": "20 de Junio",
-"description" : "Unete a este concurso lleno de developers innovadores y con mucho vibe. Ya estas listo para ganar grandes premios, construir proyectos con IA y hacer networking con personas de la indsutria? ",
-"mision": "F A L T A",
-"benefits":[
-    
-  ],
-  "prizes":[
-    {
-      "name":"Cyborgs",
-      "description":"",
-      "prize":[
+    "title": "I Torneo de Vibe Coding",
+    "date": "27 de Junio",
+    "place": "Pabellon V",
+    "hour": "9 am",
+    "registrationEndDate": "20 de Junio",
+    "description": "Unete a este concurso lleno de developers innovadores y con mucho vibe. Listo para ganar grandes premios, construir proyectos con IA y hacer networking con personas de la indsutria?",
+    "mision": "Realizar soluciones técnicamente complejas a problemas  utilizando tecnologías de alta complejidad como agentes de IA, Blockchain, arquitectura compleja, IoT, lenguajes de bajísimo nivel, etc. Con ayuda de la IA generarativa.",
+    "challenge": "Se dirá el mismo día",
+    "banners": [
+        "Dirigido al publico general GRATIS",
+        "+11 h de full VibeCoding responsable"
+    ],
+    "benefits": [
+        "Talleres y asesorias de ingenieros experimentados",
+        "Reconocimiento y networking con devs",
+        "El kit de supervivencia (tutoriales para GitHub Student Pack y Cursor IDE)",
+        "Experiencia aplicando practicas reales de ingeniería y uso estratégico de la IA"
+    ],
+    "prizes": [
         {
-          "physical": "F A L T A",
-          "digital": "F A L T A",
-          "educational":"F A L T A",
-        }
-      ]
-    },
-    {
-      "name":"Hustlers",
-      "description":"",
-      "prize":[
+            "name": "Cyborgs",
+            "description": "1er puesto",
+            "prize": [
+                {
+                    "physical": "F A L T A",
+                    "digital": "F A L T A",
+                    "educational": "F A L T A"
+                }
+            ]
+        },
         {
-          "physical": "F A L T A",
-          "digital": "F A L T A",
-          "educational":"F A L T A",
+            "name": "Hustlers",
+            "description": "2do puesto",
+            "prize": [
+                {
+                    "physical": "F A L T A",
+                    "digital": "F A L T A",
+                    "educational": "F A L T A"
+                }
+            ]
         }
-      ]
-    }, 
-  ],
- "schedule":[
-  {
-   "time":"9:00",
-   "title":"Cheking",
-   "description":""
-  },
-  {
-   "time":"9:30",
-   "title":"Revelación del reto",
-   "description":""
-  },
-  {
-   "time":"10:00",
-   "title":"Taller: Orquestación con IA",
-   "description":""
-  },
-  {
-   "time":"10:45",
-   "title":"Sprint 0: Arquitectura y Especificación",
-   "description":""
-  },
-  {
-   "time":"11:30",
-   "title":"Sprint 1: Frontend & Vibes",
-   "description":""
-  },
-  {
-   "time":"13:00",
-   "title":"Almuerzo y Tech Hunting de empresas",
-   "description":""
-  },
-  {
-   "time":"14:00",
-   "title":"Dinámica descongestionante",
-   "description":""
-  },
-  {
-   "time":"14:15",
-   "title":"Sprint 2: Backend, Lógica y CI/CD",
-   "description":""
-  },
-  {
-   "time":"17:30",
-   "title":"Tech Talk",
-   "description":""
-  },
-  {
-   "time":"18:00",
-   "title":"Presentación de pitches y demos",
-   "description":""
-  },
-  {
-   "time":"19:15",
-   "title":"Relajo y snacks",
-   "description":""
-  },
-  {
-   "time":"19:45",
-   "title":"Premiación y cierre",
-   "description":""
-  },
- ],
- "criteria":[
-  {
-   "weight":"40%",
-   "title": "Arquitectura e Ingeniería",
-   "description": "",
-  },{
-   "weight":"30%",
-   "title": "Funcionalidad y despliegue",
-   "description": "",
-  },{
-   "weight":"15%",
-   "title": "UX/UI y adaptación creativa",
-   "description": "",
-  },{
-   "weight":"15%",
-   "title": "Pitch y Caso de Negocio",
-   "description": "",
-  }
- ],
- "questions":[
-  {
-   "question": "¿Necesitamos llevar laptops?",
-   "answer":"No",
-  },
-   {
-   "question": "¿Puedo ausentarme durante un par de horas?",
-   "answer":"No",
-  },
-   {
-   "question": "¿Qué pasa con la autoria de mi creación?",
-   "answer":"",
-  }, 
-  {
-   "question": "",
-   "answer":"",
-  }, 
-  {
-   "question": "",
-   "answer":"",
-  }
- ]
+    ],
+    "schedule": [
+        {
+            "time": "9:00",
+            "title": "Cheking",
+            "description": ""
+        },
+        {
+            "time": "9:30",
+            "title": "Revelación del reto",
+            "description": ""
+        },
+        {
+            "time": "10:00",
+            "title": "Taller: Orquestación con IA",
+            "description": ""
+        },
+        {
+            "time": "10:45",
+            "title": "Sprint 0: Arquitectura y Especificación",
+            "description": ""
+        },
+        {
+            "time": "11:30",
+            "title": "Sprint 1: Frontend & Vibes",
+            "description": ""
+        },
+        {
+            "time": "13:00",
+            "title": "Almuerzo y Tech Hunting de empresas",
+            "description": ""
+        },
+        {
+            "time": "14:00",
+            "title": "Dinámica descongestionante",
+            "description": ""
+        },
+        {
+            "time": "14:15",
+            "title": "Sprint 2: Backend, Lógica y CI/CD",
+            "description": ""
+        },
+        {
+            "time": "17:30",
+            "title": "Tech Talk",
+            "description": ""
+        },
+        {
+            "time": "18:00",
+            "title": "Presentación de pitches y demos",
+            "description": ""
+        },
+        {
+            "time": "19:15",
+            "title": "Relajo y snacks",
+            "description": ""
+        },
+        {
+            "time": "19:45",
+            "title": "Premiación y cierre",
+            "description": ""
+        }
+    ],
+    "criteria": [
+        {
+            "weight": "40%",
+            "title": "Arquitectura e Ingeniería",
+            "description": ""
+        },
+        {
+            "weight": "30%",
+            "title": "Funcionalidad y despliegue",
+            "description": ""
+        },
+        {
+            "weight": "15%",
+            "title": "UX/UI y adaptación creativa",
+            "description": ""
+        },
+        {
+            "weight": "15%",
+            "title": "Pitch y Caso de Negocio",
+            "description": ""
+        }
+    ],
+    "questions": [
+        {
+            "question": "¿Necesitamos llevar laptops?",
+            "answer": "No"
+        },
+        {
+            "question": "¿Puedo ausentarme durante un par de horas?",
+            "answer": "No"
+        },
+        {
+            "question": "¿Qué pasa con la autoria de mi creación?",
+            "answer": "Cada uno permanece con sus derechos de autor"
+        },
+        {
+            "question": "¿El evento pagara por mis herramientas de elección?",
+            "answer": "No"
+        },
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "importantDates": [
+        {
+            "date": "05/06",
+            "description": "Cierre de inscripciones"
+        },
+        {
+            "date": "20/06",
+            "description": "Anuncio de equipos seleccionados"
+        },
+        {
+            "date": "27/06",
+            "description": "Torneo de Vibe Coding"
+        }
+    ],
+    "socials": [
+        {
+            "name": "kick",
+            "userName": "dsc_pucp",
+            "link": "https://kick.com/dsc-pucp"
+        },
+        {
+            "name": "instagram",
+            "userName": "@dsc.pucp",
+            "link": "https://www.instagram.com/dsc.pucp/"
+        },
+        {
+            "name": "linkedin",
+            "userName": "Developer Student Club PUCP",
+            "link": "https://www.linkedin.com/company/developer-student-club-pucp/posts/?feedView=all"
+        },
+        {
+            "name": "DSC PUCP",
+            "userName": "",
+            "link": "https://dsc.inf.pucp.edu.pe/"
+        },
+        {
+            "name": "github",
+            "userName": "",
+            "link": "https://github.com/dsc-pucp"
+        }
+    ]
 }
