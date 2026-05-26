@@ -1,0 +1,2 @@
+# dataTorneoVibeCoding
+archivo en .json
