@@ -1,0 +1,63 @@
+{
+"title" : " Peruvian Cyber Punk 2050 ",
+"subtitle" : "I Torneo de Vibe Coding",
+"date" : "27 de Junio",
+"place" : "Pabellon V",
+"hour" : "9am",
+ "description" : "",
+  "mision": "",
+  "benefits":[
+    
+  ],
+  "juries":[
+    {
+      "name" : "",
+      "description" :""
+    },
+    {
+      "name" : "",
+      "description" :""
+    },
+     {
+      "name" : "",
+      "description" :""
+    },
+  ],
+  "prizes":[
+    {
+      "name":"",
+      "description":"",
+      "prize":[
+        {
+          "physical": "",
+          "digital": "",
+          "educational":"",
+        }
+      ]
+    },
+    {
+      "name":"",
+      "description":"",
+      "prize":[
+        {
+          "physical": "",
+          "digital": "",
+          "educational":"",
+        }
+      ]
+    },
+    {
+      "name":"",
+      "description":"",
+      "prize":[
+        {
+          "physical": "",
+          "digital": "",
+          "educational":"",
+        }
+      ]
+    }
+    
+    
+  ]
+}
