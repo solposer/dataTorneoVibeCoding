@@ -3,9 +3,11 @@
 "subtitle" : "I Torneo de Vibe Coding",
 "date" : "27 de Junio",
 "place" : "Pabellon V",
-"hour" : "9am",
- "description" : "",
-  "mision": "",
+"hour" : "9 am",
+"registrationEndTime": "23:59",
+ "registrationEndDate": "20 de Junio",
+ "description" : "Unete a este concurso lleno de developers innovadores y con mucho vibe. Ya estas listo para ganar grandes premios, construir proyectos con IA y hacer networking con personas de la indsutria? ",
+  "mision": "Realizar “Soluciones técnicamente complejas a problemas inexistentes o absurdos en el contexto peruano” utilizando tecnologías de alta complejidad como agentes de IA, Blockchain, arquitectura compleja, IoT, lenguajes de bajísimo nivel, etc.",
   "benefits":[
     
   ],
@@ -25,7 +27,7 @@
   ],
   "prizes":[
     {
-      "name":"",
+      "name":"Cyborgs",
       "description":"",
       "prize":[
         {
@@ -36,7 +38,7 @@
       ]
     },
     {
-      "name":"",
+      "name":"Hustlers",
       "description":"",
       "prize":[
         {
@@ -47,17 +49,55 @@
       ]
     },
     {
-      "name":"",
-      "description":"",
+      "name":"Chaotic Good",
+      "description":"Aplicación más absurda, pero técnicamente impecable",
       "prize":[
         {
-          "physical": "",
+          "physical": "Patito de hule gigante para debugging"
           "digital": "",
           "educational":"",
         }
       ]
-    }
-    
-    
-  ]
+    } 
+  ],
+ "schedule":[
+  
+ ],
+ "criteria":[
+  {
+   "weight":"40%",
+   "description": "Arquitectura e Ingeniería"
+  },{
+   "weight":"30%",
+   "description": "Funcionalidad y despliegue"
+  },{
+   "weight":"15%",
+   "description": "UX/UI y adaptacion creativa"
+  },{
+   "weight":"15%",
+   "description": "Pitch y Caso de Negocio"
+  }
+ ],
+ "questions":[
+  {
+   "question": "Necesitamos llevar laptops?",
+   "answer":"No",
+  },
+   {
+   "question": "Puedo ausentarme durante un par de horas?",
+   "answer":"No",
+  },
+   {
+   "question": "Que pasa con la autoria de mi creacion?",
+   "answer":"",
+  }, 
+  {
+   "question": "",
+   "answer":"",
+  }, 
+  {
+   "question": "",
+   "answer":"",
+  }
+ ]
 }
