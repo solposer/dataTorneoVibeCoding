@@ -1,29 +1,13 @@
 {
-"title" : " Peruvian Cyber Punk 2050 ",
-"subtitle" : "I Torneo de Vibe Coding",
+"title" : "I Torneo de Vibe Coding",
 "date" : "27 de Junio",
 "place" : "Pabellon V",
 "hour" : "9 am",
-"registrationEndTime": "23:59",
- "registrationEndDate": "20 de Junio",
- "description" : "Unete a este concurso lleno de developers innovadores y con mucho vibe. Ya estas listo para ganar grandes premios, construir proyectos con IA y hacer networking con personas de la indsutria? ",
-  "mision": "Realizar “Soluciones técnicamente complejas a problemas inexistentes o absurdos en el contexto peruano” utilizando tecnologías de alta complejidad como agentes de IA, Blockchain, arquitectura compleja, IoT, lenguajes de bajísimo nivel, etc.",
-  "benefits":[
+"registrationEndDate": "20 de Junio",
+"description" : "Unete a este concurso lleno de developers innovadores y con mucho vibe. Ya estas listo para ganar grandes premios, construir proyectos con IA y hacer networking con personas de la indsutria? ",
+"mision": "Realizar “Soluciones técnicamente complejas a problemas inexistentes o absurdos en el contexto peruano” utilizando tecnologías de alta complejidad como agentes de IA, Blockchain, arquitectura compleja, IoT, lenguajes de bajísimo nivel, etc.",
+"benefits":[
     
-  ],
-  "juries":[
-    {
-      "name" : "",
-      "description" :""
-    },
-    {
-      "name" : "",
-      "description" :""
-    },
-     {
-      "name" : "",
-      "description" :""
-    },
   ],
   "prizes":[
     {
@@ -31,9 +15,9 @@
       "description":"",
       "prize":[
         {
-          "physical": "",
-          "digital": "",
-          "educational":"",
+          "physical": "F A L T A",
+          "digital": "F A L T A",
+          "educational":"F A L T A",
         }
       ]
     },
@@ -42,53 +26,105 @@
       "description":"",
       "prize":[
         {
-          "physical": "",
-          "digital": "",
-          "educational":"",
+          "physical": "F A L T A",
+          "digital": "F A L T A",
+          "educational":"F A L T A",
         }
       ]
-    },
-    {
-      "name":"Chaotic Good",
-      "description":"Aplicación más absurda, pero técnicamente impecable",
-      "prize":[
-        {
-          "physical": "Patito de hule gigante para debugging"
-          "digital": "",
-          "educational":"",
-        }
-      ]
-    } 
+    }, 
   ],
  "schedule":[
-  
+  {
+   "time":"9:00",
+   "title":"Cheking",
+   "description":""
+  },
+  {
+   "time":"9:30",
+   "title":"Revelación del reto",
+   "description":""
+  },
+  {
+   "time":"10:00",
+   "title":"Taller: Orquestación con IA",
+   "description":""
+  },
+  {
+   "time":"10:45",
+   "title":"Sprint 0: Arquitectura y Especificación",
+   "description":""
+  },
+  {
+   "time":"11:30",
+   "title":"Sprint 1: Frontend & Vibes",
+   "description":""
+  },
+  {
+   "time":"13:00",
+   "title":"Almuerzo y Tech Hunting de empresas",
+   "description":""
+  },
+  {
+   "time":"14:00",
+   "title":"Dinámica descongestionante"",
+   "description":""
+  },
+  {
+   "time":"14:15",
+   "title":"Sprint 2: Backend, Lógica y CI/CD",
+   "description":""
+  },
+  {
+   "time":"17:30",
+   "title":"Tech Talk",
+   "description":""
+  },
+  {
+   "time":"18:00",
+   "title":"Presentación de pitches y demos",
+   "description":""
+  },
+  {
+   "time":"19:15",
+   "title":"Relajo y snacks",
+   "description":""
+  },
+  {
+   "time":"19:45",
+   "title":"Premiación y cierre",
+   "description":""
+  },
  ],
  "criteria":[
   {
    "weight":"40%",
-   "description": "Arquitectura e Ingeniería"
+   "title": "Arquitectura e Ingeniería",
+   "description": "",
   },{
    "weight":"30%",
-   "description": "Funcionalidad y despliegue"
+   "title": "Funcionalidad y despliegue",
+   "description": "",
   },{
    "weight":"15%",
-   "description": "UX/UI y adaptacion creativa"
+   "title": "UX/UI y adaptación creativa",
+   "description": "",
   },{
    "weight":"15%",
-   "description": "Pitch y Caso de Negocio"
+   "title": "Pitch y Caso de Negocio",
+   "description": "",
   }
  ],
  "questions":[
   {
-   "question": "Necesitamos llevar laptops?",
+   "question": "¿Necesitamos llevar laptops?",
    "answer":"No",
   },
    {
-   "question": "Puedo ausentarme durante un par de horas?",
+   "question": "¿Puedo ausentarme durante un par de horas?",
    "answer":"No",
   },
    {
-   "question": "Que pasa con la autoria de mi creacion?",
+   "question": "¿Qué pasa con la autoria de mi creación?",
    "answer":"",
   }, 
   {
